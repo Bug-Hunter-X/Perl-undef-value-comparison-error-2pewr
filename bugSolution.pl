@@ -1,0 +1,1 @@
+my $var = undef; if (!defined $var || $var eq 'some_value') { print "true"; } else {print "false";}
